@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "fast-csv": "^4.3.6",
+    "fs": "^0.0.1-security",
+    "pg": "^8.6.0"
+  }
+}
